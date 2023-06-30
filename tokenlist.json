@@ -57,11 +57,11 @@
     },
     {
       "chainId": 51178,
-      "address": "0x78bE7ab62921ec295a400Ef7414F2a01fFD5476F",
-      "name": "USDC",
-      "symbol": "USDC",
+      "address": "0xFBc8F970602e902dF3D46b0ED4382A11Ac379C33",
+      "name": "Khang Nguyen Token",
+      "symbol": "KA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/SideSwapIN/tokenlist/master/assets/usdc.png"
+      "logoURI": "https://raw.githubusercontent.com/khangnguyennn/ide/main/khangtoken.png"
     },
     {
       "chainId": 51178,
